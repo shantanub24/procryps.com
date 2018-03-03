@@ -1,29 +1,29 @@
 {
-    "title": "Grayscale",
-    "name": "startbootstrap-grayscale",
+    "title": "Procryps",
+    "name": "Procryps",
     "version": "4.0.0",
-    "description": "A grayscale one page HTML theme for Bootstrap.",
+    "description": "Procryps helps setup & manage crypto currency trading bot",
     "keywords": [
-        "css",
-        "sass",
-        "html",
-        "responsive",
-        "theme",
-        "template"
+        "profit trailer",
+        "crypto currency trading bot",
+        "algo trading",
+        "bitcoin trading",
+        "crypto currency ",
+        "ethereum "
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/grayscale",
+    "homepage": "https://procryps.com/",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-grayscale/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/shantanub24/procryps.com",
+        "email": "info@procryps.com"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "Shantanu",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        "shantanu"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-grayscale.git"
+        "url": "https://github.com/shantanub24/procryps.com"
     },
     "dependencies": {
         "bootstrap": "4.0.0",
